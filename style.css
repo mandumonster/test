@@ -1,3 +1,7 @@
 body {background-color: beige;}
 h2 {color:deeppink;}
 p {color: violet;}
+ul > li {
+    color: red;
+    font-size: 20px;
+}
